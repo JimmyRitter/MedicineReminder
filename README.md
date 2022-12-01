@@ -1,3 +1,5 @@
+# MedicineReminder
+
 Deploy functions
 `func azure functionapp publish <APPNAME>`
 
